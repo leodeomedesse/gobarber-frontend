@@ -11,6 +11,3 @@ _ps: Antes de executar lembre de iniciar o backend desenvolvido nos módulos 2 e
 
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
